@@ -1,0 +1,14 @@
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\bin\Debug\net8.0\HW_l4_3.exe
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\bin\Debug\net8.0\HW_l4_3.deps.json
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\bin\Debug\net8.0\HW_l4_3.runtimeconfig.json
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\bin\Debug\net8.0\HW_l4_3.dll
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\bin\Debug\net8.0\HW_l4_3.pdb
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\obj\Debug\net8.0\HW_l4_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\obj\Debug\net8.0\HW_l4_3.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\obj\Debug\net8.0\HW_l4_3.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\obj\Debug\net8.0\HW_l4_3.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\obj\Debug\net8.0\HW_l4_3.dll
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\obj\Debug\net8.0\refint\HW_l4_3.dll
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\obj\Debug\net8.0\HW_l4_3.pdb
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\obj\Debug\net8.0\HW_l4_3.genruntimeconfig.cache
+C:\Users\Пользователь\source\repos\ConsoleApp1\HW_l4_3\obj\Debug\net8.0\ref\HW_l4_3.dll
